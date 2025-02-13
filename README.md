@@ -47,7 +47,7 @@ Stay ahead with our expert maintenance services, designed to prevent downtime an
 
 For inquiries, support, or more information about our services, please reach out to us:
 
-- **Email**: support@businessskillsacademy.com
+- **Email**: javier.ortega@a.vedrunasevillasj.es
 - **Phone**: +1 (123) 456-7890
 - **Website**: [www.businessskillsacademy.com](javier.ortega@a.vedrunasevillasj.es)
 
