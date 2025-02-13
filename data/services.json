@@ -1,14 +1,35 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "src": "./img/office-suite.png",
+       "title": "Microsoft 365 Family",
+       "desc": "Microsoft 365 Family provides premium apps, cloud storage, and security for up to six people, ideal for home and family use.",
+       "cat": "Productivity"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+        "src": "./img/windows-11.jpg",
+        "title": "Windows 11 Pro",
+        "desc": "CWindows 11 Pro offers enhanced security, productivity, and powerful management features—perfect for businesses and professionals.",
+        "cat": "Productivity"
+     },
+
+     {
+      "src": "./img/Pc-CheckChipLarge.png",
+      "title": "Windows Software and Hardware Maintenance",
+      "desc": "Windows Software and Hardware Maintenance ensures optimal performance, security, and longevity for your devices with regular updates and expert support.",
+      "cat": "Productivity"
+   },
+     {
+      "src": "./img/website-hosting.webp",
+      "title": "Website Hosting",
+      "desc": "Reliable and protected web hosting solutions, ensuring high availability and efficient support.",
+      "cat": "Web"
+     }, 
+      
+      
+      {
+         "src": "./img/mail-min.png",
+         "title": "Email Hosting",
+         "desc": "Safe and reliable email hosting services with personalized domain options.",
+         "cat": "Web"
+      }
 ]

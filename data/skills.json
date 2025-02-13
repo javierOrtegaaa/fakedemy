@@ -1,14 +1,39 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo1 Curso",
-       "desc": "Descripcion1 Curso",
-       "cat": "Categoria"
+       "src": "./img/office-suite.png",
+       "title": "Microsoft 365 Family Service Courses",
+       "desc": "Training on managing and optimizing Microsoft 365 Family features, including cloud storage, app installations, and family sharing",
+       "cat": "Business"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+        "src": "./img/decision.png",
+        "title": "Critical Judgment",
+        "desc": "Assess risks and opportunities to determine the optimal course.",
+        "cat": "Business"
+     },
+     {
+      "src": "./img/windows-11.jpg",
+      "title": "Windows 11 Pro Courses",
+      "desc": "Courses on configuring, securing, and maintaining Windows 11 Pro, including advanced features, settings, and troubleshooting.",
+      "cat": "Leadership"
+      },    
+      {
+      "src": "./img/Pc-CheckChipLarge.png",
+      "title": "Windows Software and Hardware Maintenance Courses",
+      "desc": "Training on diagnosing, repairing, and maintaining both software and hardware for Windows devices, including system updates, hardware upgrades, and performance optimization.",
+      "cat": "Leadership"
+      },
+      {
+         "src": "./img/cost.png",
+         "title": "Cost Reduction",
+         "desc": "Identify ways to optimize resources.",
+         "cat": "Financial"
+      },
+      {
+         "src": "./img/smart.png",
+         "title": "Smart Investment",
+         "desc": "Know when and where to invest to grow the business.",
+         "cat": "Financial"
+      }
+      
 ]
